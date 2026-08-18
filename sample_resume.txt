@@ -1,0 +1,19 @@
+John Doe
+Email: john.doe@example.com
+Phone: 555-123-4567
+LinkedIn: linkedin.com/in/johndoe
+
+SUMMARY
+Experienced software engineer with 5 years of experience in web development and database administration. Proficient in SQL, Python, and JavaScript.
+
+EXPERIENCE
+Software Engineer at Tech Solutions Inc. (2020-Present)
+- Developed web applications using React, Node.js, and SQL databases.
+- Optimized database queries, improving performance by 30%.
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University, 2015-2019
+
+SKILLS
+SQL, Python, JavaScript, React, Node.js, HTML, CSS, DB administration
